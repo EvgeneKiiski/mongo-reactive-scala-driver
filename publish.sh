@@ -1,0 +1,1 @@
+./jfrog bt u /Users/evg/work/mongo-reactive-scala-driver/repository/ twistedlogic/mongo-reactive-scala-driver/mongo-reactive-scala-driver/v0.0.1 ru/twistedlogic/mongo-reactive-scala-driver_2.12/0.0.1/
